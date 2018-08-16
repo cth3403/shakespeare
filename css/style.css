@@ -1,0 +1,45 @@
+body {
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+h1 {
+  font-family: 'Romanesco', cursive;
+  font-size: 70pt;
+}
+
+.choose {
+  font-size: 16pt;
+}
+
+.btn {
+  font-size: 12pt;
+}
+
+.pad-mar {
+  margin: 40px;
+  padding: 40px;
+}
+
+#main_well {
+  background-color: #cc3333;
+  color: white;
+}
+
+#quote_well {
+  color: black;
+}
+
+#attr_q {
+  padding: 10px;
+  font-size: 16pt;
+}
+
+#close_q {
+  text-align: right;
+}
+
+#text_q {
+  font-size: 20pt;
+  padding-left: 40px;
+  padding-right: 40px;
+}
